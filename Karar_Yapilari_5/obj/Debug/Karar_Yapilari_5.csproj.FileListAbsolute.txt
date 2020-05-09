@@ -1,0 +1,14 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_5\Karar_Yapilari_5\bin\Debug\Karar_Yapilari_5.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_5\Karar_Yapilari_5\bin\Debug\Karar_Yapilari_5.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_5\Karar_Yapilari_5\bin\Debug\Karar_Yapilari_5.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_5\Karar_Yapilari_5\obj\Debug\Karar_Yapilari_5.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_5\Karar_Yapilari_5\obj\Debug\Karar_Yapilari_5.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_5\Karar_Yapilari_5\obj\Debug\Karar_Yapilari_5.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_5\Karar_Yapilari_5\obj\Debug\Karar_Yapilari_5.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_5\Karar_Yapilari_5\bin\Debug\Karar_Yapilari_5.exe.config
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_5\Karar_Yapilari_5\bin\Debug\Karar_Yapilari_5.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_5\Karar_Yapilari_5\bin\Debug\Karar_Yapilari_5.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_5\Karar_Yapilari_5\obj\Debug\Karar_Yapilari_5.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_5\Karar_Yapilari_5\obj\Debug\Karar_Yapilari_5.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_5\Karar_Yapilari_5\obj\Debug\Karar_Yapilari_5.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_5\Karar_Yapilari_5\obj\Debug\Karar_Yapilari_5.pdb
